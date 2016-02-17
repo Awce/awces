@@ -1,26 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-12-24 00:57:15 -0600
-categories: jekyll update
+title:  "Bienvenido a Jekyll!"
+date:   2016-02-17 04:0:15 -0600
+categories: jekyll update deploy rails ruby
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-OK este es un actualizacion
+Hola Jekyll
+Este es mi primer post, me parece perfecto iniciar esta entrada hablando del motor que soporta este blog, [Jekyll](https://jekyllrb.com/) es un transformador de texto plano de páginas estáticas o como en mi caso un blog.
+No es difícil la instalación ni mucho menos entender la lógica tan engorrosa que usa.
+Sigue estos sencillos pasos y tendrás tu blog local funcionado.
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+#=> Instala la gema.
+$ gem install jekyll
+#=> Crea un nuevo proyecto y despues accede a el.
+$ jekyll new nombre-de-tu-proyecto
+#=> Inicia el servidor y en un navegador localhost:4000.
+$ jekyll serve
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Y listo que te diviertas.
+
+Chécate esto: [Jekyll docs][jekyll-docs] para mas información sobre Jekyll. Reportar Bugs [Jekyll’s GitHub repo][jekyll-gh]. y preguntas [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
