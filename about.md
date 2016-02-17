@@ -3,13 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+# ¿Quién soy?
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Me llamo Raul Hernandez, Awce para los cuates, soy estudiante de la Ingenieria de Desarrollo de Software y activo en,
+[platzi.com](http://platzi.com), entusiasta, amante de los video juegos y emprendedor.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+# ¿Qué es lo que hago?
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+~~FullStackWebDeveloper~~ Bueno le hago al Backend, me encanta Ruby usando RubyonRails y JavaScript del lado del servidor usando Node.js y Sails.js, Python y Django, pero también me apasiona el FrontEnd uso preprocesadores de css como Stylus y Nib, frameworks de css como Materialize y Foundation Zurb y por supuesto automatizo las tareas con Grunt y Gulp.
+
+
+# Me gusta compartir lo que aprendo.
+
+Entra a mi portafolio.
+{% include icon-github.html username="awce" %} /
+[github.com](http://github.com/github_username)
