@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bienvenido a Jekyll!"
-date:   2016-02-17 04:0:15 -0600
+date:   2015-12-24 04:40:15 -0600
 categories: jekyll update deploy rails ruby
 ---
 Hola Jekyll
